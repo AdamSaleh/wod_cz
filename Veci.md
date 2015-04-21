@@ -1,4 +1,4 @@
- ## Vybavení
+## Vybavení
 
 *Příruční zbraň* (10s) d6. Může být použita jako sekundární zbraň,
 umožňující znovu hodit kostkou na zranění jednou za útok. Příkladem: dýka, krátký meč, sekyra.
