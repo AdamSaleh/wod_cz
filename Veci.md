@@ -1,4 +1,5 @@
 ## Vybavení
+*Začínáš s 60 stříbrňáky*
 
 *Příruční zbraň* (10s) d6. Může být použita jako sekundární zbraň,
 umožňující znovu hodit kostkou na zranění jednou za útok. Příkladem: dýka, krátký meč, sekyra.
@@ -15,7 +16,7 @@ umožňující znovu hodit kostkou na zranění jednou za útok. Příkladem: d�
 
 *Lehká zbroj* (30s) Brnění 1
 
-*Těžká zbroj* (60s) Brnění 2. Má přilbu. Běh, tichý pohyb a plavání v těžké zbroji jsou velmi těžké.
+*Plná zbroj* (60s) Brnění 2. Má přilbu. Běh, tichý pohyb a plavání v plné zbroji jsou velmi těžké.
 
 *Štít* (10s) +1 Brnění.
 
