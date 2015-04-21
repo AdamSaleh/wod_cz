@@ -24,7 +24,7 @@ umožňující znovu hodit kostkou na zranění jednou za útok. Příkladem: d�
 
 *Nástroje* (5s každé): Páčidlo, sekyrka, past na drobnou zvěř, šperháky, pero a inkoust, rybařská udice, lopata, kotvička, krumpáč, teleskopická tyč
 
-*Výbava mága* (10s každé): Měšec s prachem z kostí, skumavka rtuti, skumavka krvi.
+*Výbava mága* (10s každé): Měšec s prachem z kostí, malá skumavka rtuti, skumavka krvi.
 
 *Výbava klerika* (10s každé): Flaštička se svěcenou vodou, kadidlo
 
