@@ -1,6 +1,6 @@
 ## Hod kostami
 **Kdykoliv se pokusíte o riskantní akci**, sečtěte výsledek hodu dvěma šestistěnnýma kostkama (2d6) 
-a přičtěte k výsledku hdnotu relevantního atributu. (*Správce* ti řekne možné důsledky takového pokusu,
+a přičtěte k výsledku hodnotu relevantního atributu. (*Správce* ti řekne možné důsledky takového pokusu,
 takže se můžeš před hodem rozhodnout pro jinou akci.)
 
 * *6 a méňe* značí neúspěch, akce se nepodaří a uskuteční se riziko
